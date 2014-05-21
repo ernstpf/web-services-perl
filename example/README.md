@@ -6,8 +6,8 @@ This script will display the path for each of the files in a directory
 ------------------------------
 
 Be sure to update these variables:
-$server
-$site_name
-$directory
-$user
+$server, 
+$site_name, 
+$directory, 
+$user, 
 $pass

@@ -15,8 +15,8 @@ my $directory = '/company/careers';
 
 
 # SET CREDENTIALS
-$user = 'importer-itweb';
-$pass = 'iD/F6Ox9V1E4jE8';
+$user = 'USERNAME';
+$pass = 'PASSWORD';
 $auth = SOAP::Data->name('authentication')->value([SOAP::Data->name('password')->value($pass), SOAP::Data->name('username')->value($user)]);
 
 
